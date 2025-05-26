@@ -19,6 +19,9 @@ A simple Java console-based banking application that simulates basic operations 
 
 ## 🚀 How to Run
 
-1. Clone this repository:
+1. Clone this repo
+2. Compile using `javac`:
    ```bash
-   git clone https://github.com/your-username/BankApp.git
+   javac src/bank/*.java
+
+3.java bank.MainClass
